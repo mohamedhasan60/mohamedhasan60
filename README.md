@@ -81,7 +81,7 @@
 <td>🏫</td>
 <td><b>B.Sc. Computer Science</b></td>
 <td>Misr Higher Institute for Commerce & Computers</td>
-<td>2021 – 2025</td>
+<td>Sep 2021 – Jun 2025</td>
 </tr>
 </table>
 
@@ -94,13 +94,13 @@
 <td>📊</td>
 <td><b>Freelance Data Analyst</b></td>
 <td>ITIDA Gigs Program</td>
-<td>2024</td>
+<td>Aug 2025 – Dec 2025 </td>
 </tr>
 <tr>
 <td>🤖</td>
 <td><b>AI & Data Science Trainee</b></td>
 <td>Instant Software Solution</td>
-<td>2024 – Nov 2025</td>
+<td>Aug 2025 – In Progress</td>
 </tr>
 </table>
 
@@ -119,13 +119,13 @@
 <td>🤖</td>
 <td><b>Machine Learning for Data Analysis</b></td>
 <td>NTI</td>
-<td>2025 · In Progress</td>
+<td>Jun 2025 · In Progress</td>
 </tr>
 <tr>
 <td>⚙️</td>
 <td><b>N8N Automation Crash Course</b></td>
 <td></td>
-<td>2025</td>
+<td>Fep 2026 . 24 hrs</td>
 </tr>
 </table>
 
