@@ -36,7 +36,9 @@
 
 </div>
 
-> *"I help businesses turn raw, messy data into clear insights that drive smarter decisions — faster."*
+> *"Data Analyst & Junior AI Engineer 📊🤖 | Turning raw data into clear business insights.
+Skilled in Python, SQL, Power BI & Excel. ECPC Finalist 🏆 | 1000+ problems solved.
+Currently expanding into AI/ML & N8N Automation 🚀 | Open to freelance projects on Upwork."*
 
 ---
 
