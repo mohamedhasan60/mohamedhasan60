@@ -20,7 +20,7 @@
 ## 🧠 About Me
 
 ```python
-class mohamedhasan60:
+class MohamedElgohary:
     def __init__(self):
         self.name       = "Mohamed Hassan Elgohary"
         self.role       = "Data Analyst"
