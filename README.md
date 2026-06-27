@@ -114,7 +114,7 @@ Currently expanding into AI/ML & N8N Automation 🚀 | Open to freelance project
 <td>🤖</td>
 <td><b>Machine Learning for Data Analysis</b></td>
 <td>NTI</td>
-<td>Jun 2025 · In Progress</td>
+<td>Jun 2026 · In Progress</td>
 </tr>
 <tr>
 <td>🐍</td>
