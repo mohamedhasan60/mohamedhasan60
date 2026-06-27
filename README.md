@@ -11,6 +11,7 @@
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0121e92fffe782bbed)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedhasan60)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedhasan60)
+[![CV](https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/mohamedhasan60/mohamedhasan60/raw/main/CV%20Mohamed%20Elgohary%20Data%20Analysis%20-%204%2C2026.pdf)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+201141224519)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201141224519)
 
