@@ -146,7 +146,7 @@ Currently expanding into AI/ML & N8N Automation 🚀 | Open to freelance project
 
 ## 📁 Projects
 
-### 🌱 [Plant Disease & Crop Recommendation System](https://github.com/mohamedhasan60/plant-disease-and-crop-recommendation) -- Graduation Project -- Grade A+
+### 🌱 [Plant Disease & Crop Recommendation System](https://github.com/mohamedhasan60/plant-disease-and-crop-recommendation) - Graduation Project Grade A+
 > AI + IoT system that helps farmers — crop recommendation via sensors & plant disease detection via deep learning (MobileNet + ESP32)
 
 `Python` `TensorFlow` `Keras` `MobileNet` `IoT` `ESP32` `Flask`
