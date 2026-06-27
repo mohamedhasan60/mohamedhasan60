@@ -18,67 +18,66 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 <div align="center">
 
-| 👤 | Info |
+|  | Info |
 |---|---|
-| 📍 | El Mansoura, Egypt 🇪🇬 |
-| 💼 | Data Analyst · Junior AI Engineer · N8N Automation |
-| 🎓 | B.Sc. Computer Science — Misr Higher Institute |
-| 🏆 | ECPC Finalist |
-| 🌍 | Arabic (Native) · English (B1) · German (A2) |
-| 📧 | elgohary1102003@gmail.com |
+|  | El Mansoura, Egypt  |
+|  | Data Analyst · Junior AI Engineer · N8N Automation |
+|  | B.Sc. Computer Science — Misr Higher Institute |
+|  | ECPC Finalist |
+|  | Arabic (Native) · English (B1) · German (A2) |
+|  | elgohary1102003@gmail.com |
 
 </div>
 
-> *Data Analyst & Junior AI Engineer 📊🤖 | Turning raw data into clear business insights.
-Skilled in Python, SQL, Power BI & Excel. ECPC Finalist 🏆 | 1000+ problems solved.
-Currently expanding into AI/ML & N8N Automation 🚀 | Open to freelance projects on Upwork.*
+> *Data Analyst & Junior AI Engineer  | Turning raw data into clear business insights.
+Skilled in Python, SQL, Power BI & Excel. ECPC Finalist  | 1000+ problems solved.
+Currently expanding into AI/ML & N8N Automation  | Open to freelance projects on Upwork.*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Programming Languages
+###  Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 📊 Data Analysis & Visualization
+###  Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### 📈 Business Intelligence
+###  Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### ⚙️ Automation
+###  Automation
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🔧 Tools
+###  Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🎓 Education
+##  Education
 
 <table>
 <tr>
-<td>🏫</td>
 <td><b>B.Sc. Computer Science</b></td>
 <td>Misr Higher Institute for Commerce & Computers</td>
 <td>Sep 2021 – Jun 2025</td>
@@ -87,11 +86,10 @@ Currently expanding into AI/ML & N8N Automation 🚀 | Open to freelance project
 
 ---
 
-## 💼 Experience
+##  Experience
 
 <table>
 <tr>
-<td>📊</td>
 <td><b>Freelance Data Analyst</b></td>
 <td>ITIDA Gigs Program</td>
 <td>Aug 2025 – Dec 2025 </td>
@@ -106,24 +104,21 @@ Currently expanding into AI/ML & N8N Automation 🚀 | Open to freelance project
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 <table>
 
 <tr>
-<td>🤖</td>
 <td><b>Machine Learning for Data Analysis</b></td>
 <td>NTI</td>
 <td>Jun 2026 · In Progress</td>
 </tr>
 <tr>
-<td>🐍</td>
 <td><b>Python for Data Analysis</b></td>
 <td>NTI</td>
 <td>Feb 2026 – Apr 2026 · 120 hrs</td>
 </tr>
 <tr>
-<td>⚙️</td>
 <td><b>N8N Automation Crash Course</b></td>
 <td>ODC</td>
 <td>Fep 2026 . 24 hrs</td>
@@ -132,33 +127,33 @@ Currently expanding into AI/ML & N8N Automation 🚀 | Open to freelance project
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 
-| 🏅 Achievement | 📝 Details |
+|  Achievement |  Details |
 |---|---|
-| 🏆 **ECPC Finalist** | Egyptian Collegiate Programming Contest |
-| 💼 **ITIDA Gigs Program** | Freelance Data Analyst — Government Initiative |
+|  **ECPC Finalist** | Egyptian Collegiate Programming Contest |
+|  **ITIDA Gigs Program** | Freelance Data Analyst — Government Initiative |
 
 
 
 ---
 
-## 📁 Projects
+##  Projects
 
-### 🌱 [Plant Disease & Crop Recommendation System](https://github.com/mohamedhasan60/plant-disease-and-crop-recommendation) - Graduation Project Grade A+
+###  [Plant Disease & Crop Recommendation System](https://github.com/mohamedhasan60/plant-disease-and-crop-recommendation) - Graduation Project Grade A+
 > AI + IoT system that helps farmers — crop recommendation via sensors & plant disease detection via deep learning (MobileNet + ESP32)
 
 `Python` `TensorFlow` `Keras` `MobileNet` `IoT` `ESP32` `Flask`
 
-### 🌡️ [Temperature & Humidity Module Prediction](https://github.com/mohamedhasan60/Module_Prediction_Temp_Humi)
+###  [Temperature & Humidity Module Prediction](https://github.com/mohamedhasan60/Module_Prediction_Temp_Humi)
 > ML model for predicting temperature & humidity readings from sensor modules
 
 `Python` `Machine Learning` `IoT`
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -174,7 +169,7 @@ Currently expanding into AI/ML & N8N Automation 🚀 | Open to freelance project
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
