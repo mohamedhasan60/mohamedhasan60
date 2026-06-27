@@ -109,12 +109,7 @@
 ## 📜 Certifications
 
 <table>
-<tr>
-<td>🐍</td>
-<td><b>Python for Data Analysis</b></td>
-<td>NTI</td>
-<td>Feb – Apr 2025 · 120 hrs</td>
-</tr>
+
 <tr>
 <td>🤖</td>
 <td><b>Machine Learning for Data Analysis</b></td>
@@ -122,9 +117,15 @@
 <td>Jun 2025 · In Progress</td>
 </tr>
 <tr>
+<td>🐍</td>
+<td><b>Python for Data Analysis</b></td>
+<td>NTI</td>
+<td>Feb 2026 – Apr 2026 · 120 hrs</td>
+</tr>
+<tr>
 <td>⚙️</td>
 <td><b>N8N Automation Crash Course</b></td>
-<td></td>
+<td>ODC</td>
 <td>Fep 2026 . 24 hrs</td>
 </tr>
 </table>
