@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Mohamed%20Hassan%20Elgohary&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Mohamed%20Elgohary&fontSize=55&fontWeight=700&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Junior%20AI%20Engineer%20%7C%20N8N%20Automation&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+Expert;Turning+Raw+Data+into+Clear+Insights;ECPC+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%F0%9F%93%8A;Junior+AI+Engineer+%F0%9F%A4%96;N8N+Automation+Builder+%E2%9A%99%EF%B8%8F;ECPC+Finalist+%F0%9F%8F%86;Turning+Raw+Data+into+Clear+Insights)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elgohary-ai/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgohary1102003@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0121e92fffe782bbed)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedhasan60)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedhasan60)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+201141224519)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201141224519)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedhasan60&color=58A6FF&style=for-the-badge)
 
@@ -19,35 +22,31 @@
 
 ## 🧠 About Me
 
-```python
-class MohamedElgohary:
-    def __init__(self):
-        self.name       = "Mohamed Hassan Elgohary"
-        self.role       = "Data Analyst"
-        self.location   = "El Mansoura, Egypt 🇪🇬"
-        self.education  = "B.Sc. Computer Science — Misr Higher Institute"
-        self.achievement = "🏆 ECPC Finalist"
+<div align="center">
 
-    def what_i_do(self):
-        return [
-            "Turn raw, messy data into clear business insights",
-            "Build interactive dashboards with Power BI & Excel",
-            "Create ML models that predict & prescribe",
-            "Write efficient SQL queries for complex datasets",
-            "Visualize data with Python (Plotly, Seaborn, Matplotlib)"
-        ]
+| 👤 | Info |
+|---|---|
+| 📍 | El Mansoura, Egypt 🇪🇬 |
+| 💼 | Data Analyst · Junior AI Engineer · N8N Automation |
+| 🎓 | B.Sc. Computer Science — Misr Higher Institute |
+| 🏆 | ECPC Finalist |
+| 🌍 | Arabic (Native) · English (B1) · German (A2) |
+| 📧 | elgohary1102003@gmail.com |
 
-    def current_focus(self):
-        return "Building real-world Data Analysis projects 🚀"
-```
+</div>
+
+> *"I help businesses turn raw, messy data into clear insights that drive smarter decisions — faster."*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -60,17 +59,75 @@ class MohamedElgohary:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🤖 Machine Learning
+### 🤖 AI & Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚙️ Automation
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🔧 Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td>🏫</td>
+<td><b>B.Sc. Computer Science</b></td>
+<td>Misr Higher Institute for Commerce & Computers</td>
+<td>2021 – 2025</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>📊</td>
+<td><b>Freelance Data Analyst</b></td>
+<td>ITIDA Gigs Program</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><b>AI & Data Science Trainee</b></td>
+<td>Instant Software Solution</td>
+<td>2024 – Nov 2025</td>
+</tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+<table>
+<tr>
+<td>🐍</td>
+<td><b>Python for Data Analysis</b></td>
+<td>NTI</td>
+<td>Feb – Apr 2025 · 120 hrs</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><b>Machine Learning for Data Analysis</b></td>
+<td>NTI</td>
+<td>2025 · In Progress</td>
+</tr>
+<tr>
+<td>⚙️</td>
+<td><b>N8N Automation Crash Course</b></td>
+<td></td>
+<td>2025</td>
+</tr>
+</table>
 
 ---
 
@@ -81,10 +138,23 @@ class MohamedElgohary:
 | 🏅 Achievement | 📝 Details |
 |---|---|
 | 🏆 **ECPC Finalist** | Egyptian Collegiate Programming Contest |
-| 🎓 **B.Sc. Computer Science** | Misr Higher Institute for Commerce & Computers |
-| 💼 **Upwork Freelancer** | Data Analysis & ML Projects |
+| 💼 **ITIDA Gigs Program** | Freelance Data Analyst — Government Initiative |
 
 </div>
+
+---
+
+## 📁 Graduation Projects
+
+### 🌱 [Plant Disease & Crop Recommendation System](https://github.com/mohamedhasan60/plant-disease-and-crop-recommendation)
+> AI + IoT system that helps farmers — crop recommendation via sensors & plant disease detection via deep learning (MobileNet + ESP32)
+
+`Python` `TensorFlow` `Keras` `MobileNet` `IoT` `ESP32` `Flask`
+
+### 🌡️ [Temperature & Humidity Module Prediction](https://github.com/mohamedhasan60/Module_Prediction_Temp_Humi)
+> ML model for predicting temperature & humidity readings from sensor modules
+
+`Python` `Machine Learning` `IoT`
 
 ---
 
@@ -105,25 +175,16 @@ class MohamedElgohary:
 
 ---
 
-## 📁 Featured Projects
-
-<div align="center">
-
-[![E-Commerce Analysis](https://github-readme-stats.vercel.app/api/pin/?username=mohamedhasan60&repo=ecommerce-sales-analysis&theme=tokyonight&hide_border=true)](https://github.com/mohamedhasan60/ecommerce-sales-analysis)
-[![Customer Churn](https://github-readme-stats.vercel.app/api/pin/?username=mohamedhasan60&repo=customer-churn-prediction&theme=tokyonight&hide_border=true)](https://github.com/mohamedhasan60/customer-churn-prediction)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
 
 **Open to freelance projects & collaborations!**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elgohary-ai/)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgohary1102003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elgohary-ai/)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgohary1102003@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+201141224519)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201141224519)
 
 </div>
 
