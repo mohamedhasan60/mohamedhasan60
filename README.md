@@ -162,7 +162,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedhasan60&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhasan60&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
