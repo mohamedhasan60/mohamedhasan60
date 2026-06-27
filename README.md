@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&section=header&text=Mohamed%20Elgohary&fontSize=55&fontWeight=700&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Junior%20AI%20Engineer%20%7C%20N8N%20Automation&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1a3a5c&height=200&section=header&text=Mohamed%20Elgohary&fontSize=55&fontWeight=700&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Junior%20AI%20Engineer%20%7C%20N8N%20Automation&descAlignY=58&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%F0%9F%93%8A;Junior+AI+Engineer+%F0%9F%A4%96;N8N+Automation+Builder+%E2%9A%99%EF%B8%8F;ECPC+Finalist+%F0%9F%8F%86;Turning+Raw+Data+into+Clear+Insights)](https://git.io/typing-svg)
 
@@ -187,6 +187,7 @@ Currently expanding into AI/ML & N8N Automation 🚀 | Open to freelance project
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elgohary1102003@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+201141224519)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201141224519)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhamedhasan60)
 
 </div>
 
