@@ -134,14 +134,13 @@
 
 ## 🏆 Achievements
 
-<div align="center">
 
 | 🏅 Achievement | 📝 Details |
 |---|---|
 | 🏆 **ECPC Finalist** | Egyptian Collegiate Programming Contest |
 | 💼 **ITIDA Gigs Program** | Freelance Data Analyst — Government Initiative |
 
-</div>
+
 
 ---
 
