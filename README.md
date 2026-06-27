@@ -95,7 +95,6 @@ Currently expanding into AI/ML & N8N Automation  | Open to freelance projects on
 <td>Aug 2025 – Dec 2025 </td>
 </tr>
 <tr>
-<td>🤖</td>
 <td><b>AI & Data Science Trainee</b></td>
 <td>Instant Software Solution</td>
 <td>Aug 2025 – In Progress</td>
