@@ -1,13 +1,10 @@
 <div align="center">
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1a3a5c&height=200&section=header&text=Mohamed%20Elgohary&fontSize=55&fontWeight=700&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BI%20%26%20REPORTING&descAlignY=58&descSize=18" />
 
 <br/>
 
-## 📊 Data Analyst | BI & Reporting Specialist
-### 🐍 Python & SQL Developer | 🏆 ECPC Finalist
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%F0%9F%93%8A;BI+%26+Reporting+Specialist+%F0%9F%93%98;Python+%26+SQL+Developer+%F0%9F%90%8D;ECPC+Finalist+%F0%9F%8F%86;Turning+Raw+Data+into+Clear+Insights" alt="Typing SVG" />
 
 </div>
 
