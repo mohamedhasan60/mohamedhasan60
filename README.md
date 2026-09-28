@@ -10,7 +10,7 @@
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0121e92fffe782bbed)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedhasan60)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedhasan60)
-[![CV](https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/mohamedhasan60/mohamedhasan60/raw/main/CV%20Mohamed%20Elgohary%20Data%20Analysis%20-%204%2C2026.pdf)
+[![CV](https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/mohamedhasan60/mohamedhasan60/blob/main/Data%20Analysis%20Eng.Mohamed%20Hassan%20Bedir%20Elgohary%2028-9-2026.pdf)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedhasan60&color=58A6FF&style=for-the-badge)
 
