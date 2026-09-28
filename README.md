@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1a3a5c&height=200&section=header&text=Mohamed%20Elgohary&fontSize=55&fontWeight=700&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Junior%20AI%20Engineer%20%7C%20N8N%20Automation&descAlignY=58&descSize=18" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1a3a5c&height=200&section=header&text=Mohamed%20Elgohary&fontSize=55&fontWeight=700&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BI%20%26%20REPORTING&descAlignY=58&descSize=18" /> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%F0%9F%93%8A;Junior+AI+Engineer+%F0%9F%A4%96;N8N+Automation+Builder+%E2%9A%99%EF%B8%8F;ECPC+Finalist+%F0%9F%8F%86;Turning+Raw+Data+into+Clear+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%F0%9F%93%8A;BI+%26+Reporting+Specialist+%F0%9F%93%98;Python+%26+SQL+Developer+%F0%9F%90%8D;ECPC+Finalist+%F0%9F%8F%86;Turning+Raw+Data+into+Clear+Insights)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,29 +24,26 @@
 
 |  | Info |
 |---|---|
-|  | El Mansoura, Egypt  |
-|  | Data Analyst · Junior AI Engineer · N8N Automation |
-|  | B.Sc. Computer Science — Misr Higher Institute |
-|  | ECPC Finalist |
-|  | Arabic (Native) · English (B1) · German (A2) |
+|  | Mansoura, Egypt |
+|  | Data Analyst · BI & Reporting Specialist |
+|  | B.Sc. Computer Science — Misr Higher Institute (MET) |
+|  | ECPC Finalist · 1,000+ Problems Solved |
+|  | Arabic (Native) · English (B1) · German (A1) |
 |  | elgohary1102003@gmail.com |
 
 </div>
 
-> *Data Analyst & Junior AI Engineer  | Turning raw data into clear business insights.
-Skilled in Python, SQL, Power BI & Excel. ECPC Finalist  | 1000+ problems solved.
-Currently expanding into AI/ML & N8N Automation  | Open to freelance projects on Upwork.*
+> *Data Analyst experienced in cleaning, analyzing, and visualizing data with Python (Pandas, Plotly, Seaborn), Excel, Power BI, and SQL. ECPC Finalist with 1,000+ solved problems on LeetCode & Codeforces. Dedicated to turning raw business data into actionable reports and interactive dashboards.*
 
 ---
 
 ##  Tech Stack
 
-###  Programming Languages
+###  Programming Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ###  Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -55,22 +52,21 @@ Currently expanding into AI/ML & N8N Automation  | Open to freelance projects on
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-###  Business Intelligence
+###  Business Intelligence & Reporting
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-###  AI & Machine Learning
+###  Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-###  Automation
+###  Automation & Tools
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-###  Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -78,8 +74,8 @@ Currently expanding into AI/ML & N8N Automation  | Open to freelance projects on
 
 <table>
 <tr>
-<td><b>B.Sc. Computer Science</b></td>
-<td>Misr Higher Institute for Commerce & Computers</td>
+<td><b>B.Sc. in Computer Science</b></td>
+<td>Faculty of Computers & Information, Misr Higher Institute (MET)</td>
 <td>Sep 2021 – Jun 2025</td>
 </tr>
 </table>
@@ -91,36 +87,55 @@ Currently expanding into AI/ML & N8N Automation  | Open to freelance projects on
 <table>
 <tr>
 <td><b>Freelance Data Analyst</b></td>
-<td>ITIDA Gigs Program</td>
-<td>Aug 2025 – Dec 2025 </td>
+<td>ITIDA Gigs & eYouth Freelance Program</td>
+<td>Sep 2025 – Apr 2026</td>
 </tr>
 <tr>
-<td><b>AI & Data Science Trainee</b></td>
-<td>Instant Software Solution</td>
-<td>Aug 2025 – In Progress</td>
+<td><b>Data Science & AI Trainee</b></td>
+<td>INSTANT Software Solution</td>
+<td>Nov 2025 – Present</td>
 </tr>
 </table>
 
 ---
 
-##  Certifications
+##  Certifications & Training
 
 <table>
-
 <tr>
-<td><b>Machine Learning for Data Analysis</b></td>
+<td><b>Machine Learning for Data Analysis (120 hrs)</b></td>
 <td>NTI</td>
-<td>Jun 2026 · In Progress</td>
+<td>Jul 2026</td>
 </tr>
 <tr>
-<td><b>Python for Data Analysis</b></td>
-<td>NTI</td>
-<td>Feb 2026 – Apr 2026 · 120 hrs</td>
+<td><b>ITIDA Gigs & eYouth Freelance Training</b></td>
+<td>ITIDA / eYouth</td>
+<td>May 2026</td>
 </tr>
 <tr>
-<td><b>N8N Automation Crash Course</b></td>
-<td>ODC</td>
-<td>Fep 2026 . 24 hrs</td>
+<td><b>Python for Data Analysis (72 hrs)</b></td>
+<td>NTI</td>
+<td>Jan 2026 – Apr 2026</td>
+</tr>
+<tr>
+<td><b>AI Automation N8N Course (24 hrs - Grade 90%)</b></td>
+<td>Orange Digital Center (ODC)</td>
+<td>Feb 2026</td>
+</tr>
+<tr>
+<td><b>Digitera "Tech for Non-Techies"</b></td>
+<td>iCareer & Plan International Egypt</td>
+<td>Dec 2025</td>
+</tr>
+<tr>
+<td><b>HCIA-AI V4.0 Course</b></td>
+<td>Huawei ICT Academy</td>
+<td>Nov 2025</td>
+</tr>
+<tr>
+<td><b>Introduction to Generative AI - Art of the Possible</b></td>
+<td>AWS</td>
+<td>Aug 2025</td>
 </tr>
 </table>
 
@@ -128,27 +143,44 @@ Currently expanding into AI/ML & N8N Automation  | Open to freelance projects on
 
 ##  Achievements
 
-
-|  Achievement |  Details |
+| Achievement | Details |
 |---|---|
-|  **ECPC Finalist** | Egyptian Collegiate Programming Contest |
-|  **ITIDA Gigs Program** | Freelance Data Analyst — Government Initiative |
-
-
+| **ECPC Finalist** | Recognized among top competitive programming teams in Egyptian Collegiate Programming Contest |
+| **1,000+ Problems Solved** | Solved 1,000+ algorithmic problems across LeetCode, Codeforces & HackerRank |
+| **ITIDA Gigs Program** | Selected for Data Analysis practical gigs track — Government Initiative |
 
 ---
 
 ##  Projects
 
-###  [Plant Disease & Crop Recommendation System](https://github.com/mohamedhasan60/plant-disease-and-crop-recommendation) - Graduation Project Grade A+
-> AI + IoT system that helps farmers — crop recommendation via sensors & plant disease detection via deep learning (MobileNet + ESP32)
+###  [Amazon E-Commerce Sales Analysis](https://github.com/mohamedhasan60)
+> End-to-end EDA on 121,180+ Amazon India orders (₹78.5M+ revenue) uncovering key category trends, regional sales performance, and order status insights.
 
-`Python` `TensorFlow` `Keras` `MobileNet` `IoT` `ESP32` `Flask`
+`Python` `Pandas` `Plotly` `Seaborn` `Jupyter` `EDA`
 
-###  [Temperature & Humidity Module Prediction](https://github.com/mohamedhasan60/Module_Prediction_Temp_Humi)
-> ML model for predicting temperature & humidity readings from sensor modules
+###  [Employees Data Analysis](https://github.com/mohamedhasan60)
+> Cleaned and processed 5,000+ HR records, reducing data inconsistency by 30% and generating performance trends using Python & Excel pivot charts.
 
-`Python` `Machine Learning` `IoT`
+`Python` `Excel` `Data Cleaning` `Pivot Tables`
+
+###  [Diabetes Readmission Prediction](https://github.com/mohamedhasan60)
+> End-to-end ML pipeline on 100K+ patient records; fixed data leakage issues to achieve a literature-consistent 0.70 ROC-AUC score.
+
+`Python` `Scikit-learn` `Machine Learning` `Data Leakage Fix`
+
+###  [Smart Plant Filtration & Diagnosis System](https://github.com/mohamedhasan60/plant-disease-and-crop-recommendation) - Graduation Project (Grade A+)
+> AI + IoT diagnosis system trained on 100,000+ images for plant disease detection and sensor-based filtering.
+
+`AI` `IoT` `Python` `TensorFlow` `Keras`
+
+---
+
+##  Volunteering & Community Activities
+
+| Role | Organization | Period |
+|---|---|---|
+| **Head of HR** | ICPC Mansoura Community | Sep 2024 – Aug 2025 |
+| **PR Volunteer** | IEEE Mansoura Student Branch | Dec 2023 – Oct 2025 |
 
 ---
 
@@ -181,4 +213,3 @@ Currently expanding into AI/ML & N8N Automation  | Open to freelance projects on
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhamedhasan60)
 
 </div>
-
