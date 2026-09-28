@@ -1,8 +1,7 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1a3a5c&height=200&section=header&text=Mohamed%20Elgohary&fontSize=55&fontWeight=700&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BI%20%26%20REPORTING&descAlignY=58&descSize=18" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:1a3a5c&height=200&section=header&text=Mohamed%20Elgohary&fontSize=55&fontWeight=700&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BI%20%26%20REPORTING&descAlignY=58&descSize=18" /> 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%F0%9F%93%8A;BI+%26+Reporting+Specialist+%F0%9F%93%98;Python+%26+SQL+Developer+%F0%9F%90%8D;ECPC+Finalist+%F0%9F%8F%86;Turning+Raw+Data+into+Clear+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data%20Analyst%20%F0%9F%93%8A;BI%20%26%20Reporting%20Specialist%20%F0%9F%93%98;Python%20%26%20SQL%20Developer%20%F0%9F%90%8D;ECPC%20Finalist%20%F0%9F%8F%86;Turning%20Raw%20Data%20into%20Clear%20Insights)](https://git.io/typing-svg)
 
 <br/>
 
