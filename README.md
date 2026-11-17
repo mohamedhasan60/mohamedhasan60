@@ -9,7 +9,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedhasan60)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedhasan60)
 [![CV](https://img.shields.io/badge/Download_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](
-https://github.com/mohamedhasan60/mohamedhasan60/blob/main/CV%20-%20Mohamed%20Elgohary%20C%20-%20Data%20Analysis%20-%2017-11-26.pdf
+https://github.com/mohamedhasan60/mohamedhasan60/raw/refs/heads/main/CV%20-%20Mohamed%20Elgohary%20C%20-%20Data%20Analysis%20-%2017-11-26.pdf
 )
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedhasan60&color=58A6FF&style=for-the-badge)
