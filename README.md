@@ -93,7 +93,7 @@ https://github.com/mohamedhasan60/mohamedhasan60/blob/main/CV%20-%20Mohamed%20El
 <tr>
 <td><b>Data Science & AI Trainee</b></td>
 <td>INSTANT Software Solution</td>
-<td>Nov 2025 – Present</td>
+<td>Nov 2025 – Nov 2026</td>
 </tr>
 </table>
 
@@ -105,7 +105,7 @@ https://github.com/mohamedhasan60/mohamedhasan60/blob/main/CV%20-%20Mohamed%20El
 <tr>
 <td><b>Machine Learning for Data Analysis (120 hrs)</b></td>
 <td>NTI</td>
-<td>Jul 2026</td>
+<td>May 2026 - Jul 2026</td>
 </tr>
 <tr>
 <td><b>ITIDA Gigs & eYouth Freelance Training</b></td>
